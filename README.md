@@ -1,1 +1,1 @@
-# sql_test
+psql -h localhost -p 5432 -U postgres test
