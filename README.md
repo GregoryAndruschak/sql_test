@@ -1,6 +1,6 @@
 Use command below to open postgres shell
 
-psql -h localhost -p 5432 -U postgres test
+psql -h localhost -p 5432 -U postgres testdb
 
 Database has created schema "myschema" and user "postgres"
 
